@@ -1,4 +1,4 @@
 # lellisls.github.io
 My personal github page.
 
-[Click here!](lellisls.github.io)
+[Click here!](http://lellisls.github.io)
